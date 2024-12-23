@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosephVicente
-- 👀 I’m interested in Manchine Learning |AI, ad Low level progamming.
+- 👀 I’m interested in Manchine Learning | Deep Learning |AI, ad Low level progamming.
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on D`Vincent
 - 📫 How to reach me josephjoaquimvicente600@gmail.com
